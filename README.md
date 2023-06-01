@@ -13,7 +13,7 @@ Simple tetris game, with a plan to add AI to it.
 
 
 ## Technologies
-* Python
+* Python 3.10
 * Pygame
 
 
